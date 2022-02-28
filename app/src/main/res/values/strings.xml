@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModelExampleAPp</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="random_number">Random Number</string>
+    <string name="randomnumber">RandomNumber</string>
+</resources>
